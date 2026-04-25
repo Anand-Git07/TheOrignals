@@ -16,7 +16,8 @@ export default function Navbar() {
         {/* Links */}
         <div className="flex items-center gap-6 text-sm text-gray-300">
           <Link to="/" className="hover:text-white transition">Home</Link>
-          <Link to="/shop" className="hover:text-white transition">Shop</Link>
+          <Link to="/men" className="hover:text-white transition">MEN</Link>
+          <Link to="/women" className="hover:text-white transition">WOMEN</Link>
           <Link to="/cart" className="hover:text-white transition">Cart</Link>
         </div>
 

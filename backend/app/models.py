@@ -17,6 +17,7 @@ class Product(models.Model):
     category = models.ForeignKey(Category, on_delete=models.CASCADE)
     is_trending = models.BooleanField(default=False)
     created_at = models.DateTimeField(auto_now_add=True)
+    rating = models.FloatField(default=4.5)
 
     def __str__(self):
         return self.name
