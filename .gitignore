@@ -1,5 +1,23 @@
-## for .DS_Store files
+# Python
+env/
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+
+# Environment
+.env
+
+# Node
+node_modules/
+dist/
+build/
+
+# OS
 .DS_Store
 
-## for the .env file
-.env
+# VS Code
+.vscode/
+
+# Logs
+*.log

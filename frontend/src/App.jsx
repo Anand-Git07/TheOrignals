@@ -1,8 +1,9 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
-import Product from './pages/Product'
+import Shop from './pages/Shop'
 import Cart from './pages/Cart'
 import Navbar from './components/Navbar'
+import Footer from './components/Footer'
 
 export default function App(){
 return(
@@ -10,9 +11,10 @@ return(
 <Navbar/>
 <Routes>
 <Route path="/" element={<Home/>}/>
-<Route path="/product" element={<Product/>}/>
+<Route path="/shop" element={<Shop/>}/>
 <Route path="/cart" element={<Cart/>}/>
 </Routes>
+<Footer/>
 </BrowserRouter>
 )
 }
