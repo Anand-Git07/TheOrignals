@@ -1,0 +1,19 @@
+name,description,price,category,is_trending,rating,image_url
+Marvel Oversized T-shirt,Avengers printed oversized tee,999,Men,True,4.6,https://images.unsplash.com/photo-1521572163474-6864f9cf17ab
+Iron Man Hoodie,Marvel Iron Man hoodie,1599,Men,True,4.7,https://images.unsplash.com/photo-1503341504253-dff4815485f1
+Captain America Sweatshirt,Winter sweatshirt Marvel theme,1399,Men,False,4.4,https://images.unsplash.com/photo-1516826957135-700dedea698c
+Spider-Man Joggers,Marvel themed joggers,1299,Men,False,4.3,https://images.unsplash.com/photo-1523381210434-271e8be1f52b
+
+The Boys Graphic T-shirt,The Boys printed t-shirt,999,Men,True,4.5,https://images.unsplash.com/photo-1520975916090-3105956dac38
+Homelander Hoodie,The Boys hoodie premium,1699,Men,True,4.8,https://images.unsplash.com/photo-1490481651871-ab68de25d43d
+Black Noir Sweatshirt,Dark theme sweatshirt,1499,Men,False,4.4,https://images.unsplash.com/photo-1530845645667-7a7f3d9d2e43
+The Boys Joggers,Streetwear joggers,1199,Men,False,4.2,https://images.unsplash.com/photo-1541099649105-f69ad21f3246
+
+Marvel Crop T-shirt,Women crop Marvel tee,899,Women,True,4.6,https://images.unsplash.com/photo-1520975922326-79c7b0f4f2b3
+Black Widow Hoodie,Marvel hoodie women fit,1499,Women,True,4.7,https://images.unsplash.com/photo-1503342217505-b0a15ec3261c
+Scarlet Witch Sweatshirt,Stylish sweatshirt women,1399,Women,False,4.5,https://images.unsplash.com/photo-1521335629791-ce4aec67dd53
+Marvel Joggers Women,Comfort joggers women,1199,Women,False,4.3,https://images.unsplash.com/photo-1514995669114-6081e934b693
+
+The Boys Crop Tee,Women The Boys tee,899,Women,True,4.4,https://images.unsplash.com/photo-1520975922326-79c7b0f4f2b3
+Starlight Hoodie,The Boys hoodie women,1499,Women,True,4.7,https://images.unsplash.com/photo-1503342217505-b0a15ec3261c
+Maeve Sweatshirt,Premium sweatshirt,1399,Women,False,4.5,https://images.unsplash.com/photo-1521335629791-ce4aec67dd53
